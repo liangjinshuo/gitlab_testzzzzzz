@@ -1,0 +1,16 @@
+{
+  "apiID": "create34724685__function_aadifpyv5pckw",
+  "apiName": "saas_type_0_golang",
+  "label": {
+    "zh_CN": "saas_type_0_golang",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
